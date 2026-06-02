@@ -1,7 +1,7 @@
-.clientes p{
-     color: blue
+.clientes {
+     color: blue;
 }
 body{
     background-color: #663399;
-    font-family: Arial,sans-serif ;
+    font-family: Arial,sans-serif;
 }
